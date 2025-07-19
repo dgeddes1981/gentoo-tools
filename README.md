@@ -98,4 +98,4 @@ Now you can install packages from the overlay. For example:
 
 ## Maintainers
 
-* [gentoo](mailto:gentoo@vashysnet.net.au)
+* [Dale Geddes - gentoo@vashysnet.net.au](mailto:gentoo@vashysnet.net.au)
